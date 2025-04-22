@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola! Soy Óscar
 
-<!--
-**oscar-co/oscar-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web con pasión por crear soluciones funcionales y limpias. Empecé desarrollando en Laravel y Angular, y actualmente me estoy especializando en **Java + Spring Boot**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ¿Qué puedes encontrar aquí?
+
+**Proyectos personales**
+- [Conversor de Unidades + Incertidumbre](https://github.com/oscar-co/conversorFrontend)
+- [API en Laravel que lo complementa](https://github.com/oscar-co/conversorBack)
+
+**Webs reales**
+- [Web de fisioterapia en Angular (versión inicial)](https://github.com/oscar-co/Web-Fisioterapia-Front-Angular)
+
+**Tecnologías que uso**
+- `Java`, `Spring Boot`, `Angular`, `Laravel`, `MySQL`
+- HTML/CSS, Bootstrap, TypeScript
+- Git & GitHub como parte de mi flujo de trabajo diario
+
+---
+
+## Objetivo actual
+
+Estoy buscando oportunidades como **Desarrollador Backend** o **Fullstack**, donde pueda aportar y seguir creciendo. Si te interesa saber más, aquí tienes mi CV 👇
+
+[Mi currículum (PDF)](enlace-a-tu-cv.com)
+
+---
+
+## ¿Hablamos?
+
+Puedes encontrarme en:
+- carrero_o@outlook.com
+- [LinkedIn](https://www.linkedin.com/in/oscarcarrero/)
