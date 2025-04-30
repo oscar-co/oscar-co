@@ -9,12 +9,13 @@ Soy un desarrollador web con pasión por crear soluciones funcionales y limpias.
 **Proyectos personales**
 - [Conversor de Unidades + Incertidumbre](https://github.com/oscar-co/conversorFrontend)
 - [API en Laravel que lo complementa](https://github.com/oscar-co/conversorBack)
-
+- [API REST de Certificación Técnica](https://github.com/oscar-co/SPR_certificator_patron-ms)
+  
 **Webs reales**
 - [Web de fisioterapia en Angular (versión inicial)](https://github.com/oscar-co/Web-Fisioterapia-Front-Angular)
 
 **Tecnologías que uso**
-- `Java`, `Spring Boot`, `Angular`, `Laravel`, `MySQL`
+- `Java`, `Spring Boot`, `Spring Security`, `Angular`, `Laravel`, `MySQL`
 - HTML/CSS, Bootstrap, TypeScript
 - Git & GitHub como parte de mi flujo de trabajo diario
 
