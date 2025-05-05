@@ -7,9 +7,12 @@ Soy un desarrollador web con pasión por crear soluciones funcionales y limpias.
 ## ¿Qué puedes encontrar aquí?
 
 **Proyectos personales**
-- [Conversor de Unidades + Incertidumbre](https://github.com/oscar-co/conversorFrontend)
-- [API en Laravel que lo complementa](https://github.com/oscar-co/conversorBack)
-- [API REST de Certificación Técnica](https://github.com/oscar-co/SPR_certificator_patron-ms)
+- [Conversor de Unidades + Incertidumbre con Angular 19](https://github.com/oscar-co/ConversorFrontend_ModernAngular)
+- [API REST de Certificación Técnica con Spring Boot](https://github.com/oscar-co/SPR_certificator_patron-ms)
+- [Conversor de Unidades + Incertidumbre con Angular 8](https://github.com/oscar-co/conversorFrontend)
+- [API en Laravel que complementa Conversor de Unidades + Incertidumbre](https://github.com/oscar-co/conversorBack)
+
+
   
 **Webs reales**
 - [Web de fisioterapia en Angular (versión inicial)](https://github.com/oscar-co/Web-Fisioterapia-Front-Angular)
