@@ -1,39 +1,101 @@
-# ¡Hola! Soy Óscar
+<h1 align="center">Óscar Carrero</h1>
+<h3 align="center">SDET | QA Automation Engineer</h3>
 
-Soy un desarrollador web con pasión por crear soluciones funcionales y limpias. Empecé desarrollando en Laravel y Angular, y actualmente me estoy especializando en **Java + Spring Boot**.
-
----
-
-## ¿Qué puedes encontrar aquí?
-
-**Proyectos personales**
-- [Conversor de Unidades + Incertidumbre con Angular 19](https://github.com/oscar-co/ConversorFrontend_ModernAngular)
-- [API REST de Certificación Técnica con Spring Boot](https://github.com/oscar-co/SPR_certificator_patron-ms)
-- [Conversor de Unidades + Incertidumbre con Angular 8](https://github.com/oscar-co/conversorFrontend)
-- [API en Laravel que complementa Conversor de Unidades + Incertidumbre](https://github.com/oscar-co/conversorBack)
-
-
-  
-**Webs reales**
-- [Web de fisioterapia en Angular (versión inicial)](https://github.com/oscar-co/Web-Fisioterapia-Front-Angular)
-
-**Tecnologías que uso**
-- `Java`, `Spring Boot`, `Spring Security`, `Angular`, `Laravel`, `MySQL`
-- HTML/CSS, Bootstrap, TypeScript
-- Git & GitHub como parte de mi flujo de trabajo diario
+<p align="center">
+Automatización E2E • Testing de APIs • CI/CD • Clean Code • Pasión por el desarrollo Full Stack
+</p>
 
 ---
 
-## Objetivo actual
+## Sobre mí
 
-Estoy buscando oportunidades como **Desarrollador Backend** o **Fullstack**, donde pueda aportar y seguir creciendo. Si te interesa saber más, aquí tienes mi CV 👇
+Soy **QA Automation Engineer / SDET** con experiencia en automatización end-to-end y testing de APIs.
 
-[Mi currículum (PDF)](enlace-a-tu-cv.com)
+Tengo background en desarrollo (Java + Spring Boot, Angular), lo que me permite entender el sistema completo y crear pruebas más robustas y útiles.
+
+Además, me apasiona el desarrollo y trabajo en proyectos propios que despliego en mi propio servidor VPS, donde gestiono pipelines de despliegue automatizados.
+
+Actualmente estoy enfocado en:
+- Automatización E2E escalable
+- Testing de APIs y backend
+- Integración continua (CI/CD)
+- Mejora de calidad y procesos QA
+- Desarrollo de Apps propias
 
 ---
 
-## ¿Hablamos?
+## Stack principal
 
-Puedes encontrarme en:
-- carrero_o@outlook.com
-- [LinkedIn](https://www.linkedin.com/in/oscarcarrero/)
+### Testing & Automation
+- Playwright (TypeScript)
+- Selenium (Java)
+- Cucumber (BDD / Gherkin)
+- Postman / SoapUI (API Testing)
+
+### Backend & Tools
+- Java + Spring Boot
+- JUnit + Mockito
+- REST APIs
+- PostgreSQL
+
+### DevOps & CI/CD
+- GitHub Actions
+- Allure Reports
+- Docker (básico)
+- Despliegues automatizados en VPS
+
+### Buenas prácticas
+- Page Object Model (POM)
+- Test Architecture
+- Clean Code
+- Test Strategy & Design
+
+---
+
+## Proyectos destacados
+
+### Framework de Automatización (Selenium + Cucumber)
+👉 Diseño de framework E2E con:
+- Arquitectura basada en POM
+- Integración con CI (GitHub Actions)
+- Reportes con Allure
+- Tests mantenibles y escalables
+
+---
+
+### API Testing + Backend (Spring Boot)
+👉 Proyecto realista con:
+- Testing de endpoints REST
+- Validación de lógica de negocio
+- Tests unitarios con JUnit & Mockito
+
+🔗 https://github.com/oscar-co/SPR_certificator_patron-ms
+
+---
+
+### Aplicaciones desplegadas (VPS)
+Proyectos personales desplegados y mantenidos por mí:
+- Backend + frontend en producción
+- Automatización de despliegues
+- Gestión de entorno real (servidor propio)
+
+🔗 https://github.com/oscar-co/ConversorFrontend_ModernAngular
+
+---
+
+## Qué aporto
+
+Mentalidad de calidad, no solo testing  
+Automatización útil 
+Capacidad de crear frameworks de testing mantenibles  
+Experiencia real con CI/CD y despliegues  
+Visión técnica completa (desarrollo + testing)  
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: carrero_o@outlook.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/oscarcarrero/  
+
+---
