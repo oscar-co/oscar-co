@@ -93,9 +93,9 @@ Visión técnica completa (desarrollo + testing)
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-- 📧 Email: carrero_o@outlook.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/oscarcarrero/  
+- Email: carrero_o@outlook.com  
+- LinkedIn: https://www.linkedin.com/in/oscarcarrero/  
 
 ---
