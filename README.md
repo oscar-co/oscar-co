@@ -55,7 +55,7 @@ Actualmente estoy enfocado en:
 ## Proyectos destacados
 
 ### Framework de Automatización (Selenium + Cucumber)
-👉 Diseño de framework E2E con:
+Diseño de framework E2E con:
 - Arquitectura basada en POM
 - Integración con CI (GitHub Actions)
 - Reportes con Allure
@@ -64,7 +64,7 @@ Actualmente estoy enfocado en:
 ---
 
 ### API Testing + Backend (Spring Boot)
-👉 Proyecto realista con:
+Proyecto con:
 - Testing de endpoints REST
 - Validación de lógica de negocio
 - Tests unitarios con JUnit & Mockito
@@ -85,10 +85,10 @@ Proyectos personales desplegados y mantenidos por mí:
 
 ## Qué aporto
 
-Mentalidad de calidad, no solo testing  
+Mentalidad de QA, no solo testing  
 Automatización útil 
 Capacidad de crear frameworks de testing mantenibles  
-Experiencia real con CI/CD y despliegues  
+Experiencia con CI/CD y despliegues  
 Visión técnica completa (desarrollo + testing)  
 
 ---
